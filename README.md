@@ -18,7 +18,7 @@ In this project the goal is to create a warehouse platfrom which feautures abbil
 
 | 🔐 Admin Account | 🗝️ Password |
 | ------------- |:-------------:|
-| alper@mail.com	 | 12345 |
+| ```alper@mail.com```	| 12345 |
 
 
 ## Application Images
