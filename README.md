@@ -5,16 +5,16 @@ dsc
 ## Application Description
 In this project the goal is to create a warehouse platfrom which feautures abbilities like selling different kind of products to customers, listing customers, products and orders, dealing with cash actions (payment entiries and payment outs) by using Java, Servlet, Hibernate, MySQL, JavaScript and HTML. Users must be sign in to the application in order to use website facilities.
 
-## Capabilities
 
-| Dil / Yetenek | :arrow_right: | 
+## Technologies
+| :arrow_right:| Technologies  | 
 | ------------- |:-------------:|
-| Java | :arrow_right: | 
-| JSP&Servlet | :arrow_right: | 
-| Hibernate | :arrow_right: | 
-| Mysql | :arrow_right: | 
-| BootStrap5 | :arrow_right: | 
-| Ajax | :arrow_right: | 
+| :arrow_right: | Java  | 
+| :arrow_right:| JSP&Servlet   | 
+| :arrow_right: |Hibernate  | 
+| :arrow_right: | Mysql | 
+| :arrow_right:| BootStrap5  | 
+| :arrow_right: | Ajax | 
 
 
 | 🔐 Admin Account | 🗝️ Password |
