@@ -23,34 +23,43 @@ In this project the goal is to create a warehouse platfrom which feautures abbil
 
 ## Application Images
 <p>
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-2.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-2.jpg" width="200" style="max-width:100%;"></a>  
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-2.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-2.jpg" width="200" style="max-width:100%;"></a>  
 
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-3.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-3.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-3.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-3.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-4.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-4.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-4.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-4.jpg" width="200" style="max-width:100%;"></a>
     
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-5.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-5.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-5.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-5.jpg" width="200" style="max-width:100%;"></a>
   
   
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-6.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-6.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-6.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-6.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-7.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-7.jpg" width="200" style="max-width:100%;">
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-7.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-7.jpg" width="200" style="max-width:100%;">
   </a>
  
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-8.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-8.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-8.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-8.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-9.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-9.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-9.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-9.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-10.jpg" width="200" target="_blank">
-<img src="https://github.com/aalperyilmaz/Java-JSP-Servlet-MySql-Blog-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz-BlogPprojesi-Sunumu-page-10.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-10.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-10.jpg" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-13.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-13.jpg" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-11.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-11.jpg" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-12.jpg" width="200" target="_blank">
+<img src="https://github.com/aalperyilmaz/Java-Hibernate-Servlet-MySql-Stock-Management-Project/blob/main/g%C3%B6rseller/Alper-Y%C4%B1lmaz_Depo_Project-page-12.jpg" width="200" style="max-width:100%;"></a>
   
 
 </p>
